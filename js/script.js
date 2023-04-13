@@ -25,7 +25,7 @@ random();
 
 
 
-/*form*/
+/*form*//*
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   
@@ -44,7 +44,7 @@ $(document).click(function(e) {
       }
   }
 });
-
+/*
 /*alt code maybe
 
 $('#popup').show();
